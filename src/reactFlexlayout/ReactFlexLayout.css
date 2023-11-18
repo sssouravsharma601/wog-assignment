@@ -1,0 +1,18 @@
+.flex-container {
+  display: flex;
+  padding: 1.5rem;
+  gap: 10px;
+}
+
+.box {
+  box-sizing: border-box;
+  padding: 0.75rem;
+  color: #fff;
+  font-weight: 600;
+  background-color: #1e91ff;
+  min-height: 50px;
+}
+.top-header {
+  text-align: center;
+  font-size: 2rem;
+}
